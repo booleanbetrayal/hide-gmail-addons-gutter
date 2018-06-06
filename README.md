@@ -1,0 +1,1 @@
+Attempts to hide the new GMail Add-Ons gutter since there is currently no way to configure its display.
